@@ -1,0 +1,7 @@
+image==1.5.3
+lxml==3.4.4
+Pillow==3.2.0
+pytesseract==0.1.6
+Scrapy==1.1.0
+Twisted==16.2.0
+zope.interface==4.1.3
